@@ -1,0 +1,38 @@
+_repo: The-Flying-U-s-Last-Stand_1740
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, Bertha Muzzy
+    - Sinclair, B. M. (Bertha Muzzy)
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: When a young lady from a land boom syndicate tries to enlist Andy Green's
+  help in a scheme to lure settlers to Montana, he isn't interested- - until he learns
+  that the land selected was part of the Flying U Ranch. Andy quickly sets off to
+  tell Chip Bennett and the rest of the Happy Family at the Flying U about the insidious
+  plot that could sound the death knell for the Flying U. This exhilarating episode
+  joins the family and friends of the Flying U Ranch as they make an end-run around
+  land-grabbers, while dealing with a stampede, a prairie fire, and the disappearance
+  of Chip Bennet's six-year-old son.
+gutenberg_bookshelf: Western
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cowboys -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Montana -- Fiction'
+- GITenberg
+title: The Flying U's Last Stand
+url: http://www.gutenberg.org/ebooks/1740
